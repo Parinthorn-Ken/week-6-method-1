@@ -7,7 +7,7 @@ int main() {
 	for (int i = 0; i != 10; i++) {
 		scanf("%d", &x[i]);
 	}
-	printf("output : ");
+	printf("Data in array : ");
 	for (int i = 0; i != 10; i++) {
 		printf("%d ", x[i]);
 	}
